@@ -1,8 +1,8 @@
 ---
 title: Ansible Tips & Tricks
-date: 2019-06-18
+date: 2020-03-10
 tags:
-- demo-content
+- ansible
 - code
 - blog
 
